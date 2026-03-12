@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+data/uploads/*
+storage/chroma/*
+!data/uploads/.gitkeep
+!storage/chroma/.gitkeep
+.vscode/
+.idea/
+.DS_Store
